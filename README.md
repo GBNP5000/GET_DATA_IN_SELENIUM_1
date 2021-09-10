@@ -1,1 +1,7 @@
-# GET_DATA_IN_SELENIUM_1
+# INSTALL SCRAPY-SELENIUM
+
+pip install scrapy-selenium
+
+HOW TO USE THIS ? CHECK-OUT
+
+https://github.com/clemfromspace/scrapy-selenium
